@@ -1,5 +1,6 @@
 # Go-to-subdirectory
 
+RE: apparently `fzf` supports this out of the box lol
 
 Do you find yourself always using `$ cd` go to four directories deep from your current working directory?
 
